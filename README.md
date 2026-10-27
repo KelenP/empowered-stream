@@ -4,6 +4,22 @@
 
 ---
 
+## 🚧 Current Development Status
+
+EmpoweredStream is an early-stage personal project. Its initial interface has
+been built with Next.js, TypeScript and Tailwind CSS. It currently includes a
+header, the project logo and an initial artist card with placeholder content.
+
+The Intention Layer, recommendation pipeline, automated tests and evaluation
+metrics described below represent the planned direction of the project. They
+have not yet been implemented.
+
+I am developing this project as a personal challenge to explore how music
+recommendations could better respond to a user's intention, while strengthening
+my skills in software development, quality assurance and project planning.
+
+---
+
 ## 🎯 The Problem: Semantic Mood Blindness
 
 Modern streaming systems rely heavily on cold metadata (e.g. BPM, genre, artist similarity), leading to a critical limitation:
